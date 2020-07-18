@@ -1,4 +1,4 @@
-# GANs_and_VAC_for_RNA-Sequences
+# GANs_and_VAE_for_RNA-Sequences
 
 __The data used is:__ https://www.kaggle.com/murats/gene-expression-cancer-rnaseq
 
